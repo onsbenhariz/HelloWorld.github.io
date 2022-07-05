@@ -1,2 +1,7 @@
-# HelloWorld.github.io
+# HelloWord
 Demonstration for Website Building
+
+---
+Checklist
+
+---
