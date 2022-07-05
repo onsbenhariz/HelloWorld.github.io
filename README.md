@@ -1,4 +1,4 @@
-# HelloWord
+# HelloWorld
 Demonstration for Website Building
 
 ---
