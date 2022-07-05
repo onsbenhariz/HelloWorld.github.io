@@ -7,6 +7,6 @@ Checklist
 
 To do list... a different organization
 - [] wash clothes
-- [] dishes
+- [x] dishes
 - [] sweep
 ---
